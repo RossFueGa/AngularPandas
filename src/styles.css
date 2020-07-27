@@ -1,0 +1,23 @@
+.pandasTitle{
+    margin-top: 22px;
+    font-size: 28px;   
+}
+
+
+div.dis{
+    display:inline-block;
+}
+div.d1{
+    display:inline-block;
+    text-align: start;
+    width: 400px;
+    height: 50px;
+}
+div.d2{
+    display:inline-block;
+    margin-top: 40px;
+}
+div.container{
+    margin-top: 40px;
+}
+
